@@ -3,7 +3,7 @@
 Given an excel with the following structure:
 
 | summoner  | 1 | 2 | 3 | 4 | 5 |
-| ------------- | ------------- |
+| ------------- | ------------- |  ------------- |  ------------- |  ------------- |  ------------- |
 | nickname | Top  | Jungle  | Support  | Bottom  | Middle  |
 
 it generates teams for LoL keeping in mind participant's preferences
